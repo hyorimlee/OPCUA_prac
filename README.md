@@ -1,7 +1,7 @@
 # OPCUA_prac
 Creating simple OPC UA Server/Client with python
 ---
-## Installtion
+# Installtion
 clone this project:
 ```
 git clone https://github.com/HYORIMLEE/OPCUA_prac.git
