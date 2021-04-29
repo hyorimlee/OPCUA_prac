@@ -1,4 +1,4 @@
-# Study_OPC_UA
+# What is OPC-UA
 OPC UA란?
 -------------------------------
 OPC UA(OPC Unified Architecture)는 산업 자동화를 위한 Machine 사이의 통신을 위한 프로토콜
