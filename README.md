@@ -1,6 +1,4 @@
 # OPCUA_prac
-
-
 Creating simple OPC UA Server/Client with python
 ---
 ## Installtion
@@ -12,3 +10,5 @@ Install packages:
 ```
 $ pip install -r requirements.txt
 ```
+## By the way...
+[what is OPC UA?](https://github.com/HYORIMLEE/OPCUA_prac/blob/main/What%20is%20OPC%20UA.md)
