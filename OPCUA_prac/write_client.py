@@ -7,9 +7,7 @@ from opcua import Client
 
 if __name__ == "__main__":
 
-    #client = Client("opc.tcp://localhost:4840/freeopcua/server/")
-    client = Client("opc.tcp://164.125.34.159:4840/freeopcua/server/")
-    # client = Client("opc.tcp://admin@localhost:4840/freeopcua/server/") #connect using a user
+    client = Client("opc.tcp://localhost:4840/freeopcua/server/")
     try:
         client.connect()
         client.load_type_definitions()  # load definition of server specific structures/extension objects
